@@ -8,7 +8,7 @@ protocols = [
   'switch18', 'switch19', 'switch20', 'switch21', 'switch22', 'switch23'
   'rolling1'
   'dimmer1', 'dimmer2'
-  'pir1', 'pir2', 'pir3', 'pir4', 'pir5'
+  'pir1', 'pir2', 'pir3', 'pir4', 'pir5', 'pir6'
   'contact1', 'contact2', 'contact3'
   'generic', 'generic2'
   'alarm1', 'alarm2'
